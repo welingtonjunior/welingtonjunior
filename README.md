@@ -1,19 +1,19 @@
-# Olá, sou Welington Junior! 👋
+<h2 align="center">👋 Olá, eu sou Welington Junior!</h2>
+<p align="center">Bem-vindo ao meu perfil GitHub! Sou um <strong>desenvolvedor Angular</strong> apaixonado, especializado em <strong>NgRx</strong> e <strong>RxJS</strong>, atualmente inovando no <strong>BTG</strong>, o maior banco de investimentos da América Latina.</p>
 
-Bem-vindo(a) ao meu perfil GitHub! Sou um desenvolvedor Angular apaixonado, especializado em NgRx e RxJS. Atualmente, estou trabalhando no [BTG](https://www.btgpactual.com/), o maior banco de investimentos da América Latina, onde aplico minhas habilidades para criar e otimizar aplicações web complexas e de alta performance.
+<p align="center">
+  <a href="https://www.linkedin.com/in/welingtonfagundes" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:welingtonfagundesch@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-## Sobre Mim
+## 🚀 Sobre Mim
 
-- 🌱 **Especialização**: Com uma sólida base em Angular, tenho experiência avançada em gerenciamento de estado reativo com NgRx e programação reativa com RxJS.
-- 💼 **Experiência Profissional**: Atualmente, faço parte da equipe de desenvolvimento do BTG, contribuindo para inovar e melhorar continuamente nossas soluções digitais.
-- 📈 **Contribuições**: Apaixonado por código aberto, contribuo regularmente para projetos que me interessam, especialmente aqueles relacionados ao ecossistema Angular.
+- 🌱 **Especialização**: Angular, NgRx, RxJS.
+- 💼 **Onde Trabalho**: Desenvolvedor no <a href="https://www.btgpactual.com/">BTG</a>.
+- 📈 **Open Source**: Contribuições ativas para o ecossistema Angular.
 
+## 🌟 Vamos Conectar!
 
-## Vamos Conectar!
+Estou aberto a novos desafios e colaborações. Se estiver interessado, vamos conversar!
 
-Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você estiver interessado em discutir ideias ou projetos, sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
-
-- [LinkedIn](https://www.linkedin.com/in/welingtonfagundes)
-- [Email](mailto:welingtonfagundesch@gmail.com)
-
-Obrigado por visitar meu perfil. Espero que você encontre inspiração nos meus projetos e contribuições. Vamos construir algo incrível juntos!
+Obrigado por visitar meu perfil. Vamos juntos criar algo incrível!
