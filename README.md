@@ -1,5 +1,5 @@
 <h2 align="center">👋 Olá, eu sou Welington Junior!</h2>
-<p align="center">Bem-vindo ao meu perfil GitHub! Sou um <strong>desenvolvedor Angular</strong>, especializado em <strong>NgRx</strong> e <strong>RxJS</strong>, atualmente inovando no <strong>BTG</strong>, o maior banco de investimentos da América Latina.</p>
+<p align="center">Bem-vindo ao meu perfil GitHub! Sou um <strong>desenvolvedor Angular</strong>, especializado em <strong>NgRx</strong> e <strong>RxJS</strong>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/welingtonfagundes" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -9,7 +9,7 @@
 ## 🚀 Sobre Mim
 
 - 🌱 **Especialização**: Angular, NgRx, RxJS.
-- 💼 **Onde Trabalho**: Desenvolvedor no <a href="https://www.btgpactual.com/">BTG</a>.
+- 💼 **Onde Trabalhei**: Desenvolvedor no <a href="https://www.btgpactual.com/">BTG</a>.
 - 📈 **Open Source**: Contribuições ativas para o ecossistema Angular.
 
 ## 🌟 Vamos Conectar!
