@@ -1,5 +1,5 @@
 <h2 align="center">👋 Olá, eu sou Welington Junior!</h2>
-<p align="center">Bem-vindo ao meu perfil GitHub! Sou um <strong>desenvolvedor fullstack</strong> com experiência em <strong>Java</strong> e <strong>Angular</strong>, especializado em <strong>NgRx</strong> e <strong>RxJS</strong>.</p>
+<p align="center">Bem-vindo ao meu perfil GitHub! Sou um <strong>desenvolvedor fullstack</strong> com experiência em <strong>Java</strong> e <strong>Angular</strong>.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/welingtonfagundes" title="LinkedIn">
