@@ -18,8 +18,4 @@
 - 🏦 **Histórico**: Já atuei como desenvolvedor no <a href="https://www.btgpactual.com/">BTG Pactual</a>.
 - 📈 **Open Source**: Contribuições ativas para os ecossistemas Angular, Java e Spring.
 
-## 🌟 Vamos Conectar!
 
-Estou sempre aberto a novos desafios e colaborações. Se quiser trocar uma ideia ou criar algo incrível juntos, é só chamar!
-
-Obrigado por visitar meu perfil! 🚀
