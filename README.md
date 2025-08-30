@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 - 🧠 **Experiência**: 2 anos como desenvolvedor fullstack.
 - 🌱 **Especializações**: Angular, Java, NgRx, RxJS.
