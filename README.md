@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou Welington Junior!</h2>
+<h2 align="center">👋 Olá, eu sou Welington Fagundes!</h2>
 <p align="center">Bem-vindo ao meu perfil GitHub! Sou um <strong>desenvolvedor fullstack</strong> com experiência em <strong>Java</strong> e <strong>Angular</strong>.
 
 <p align="center">
